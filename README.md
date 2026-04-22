@@ -33,7 +33,7 @@
 
 I started coding in 2014 in Kabul. By 2017 I had founded **Tajer.af**, one of the earliest full-stack e-commerce platforms built in Afghanistan, which I ran until 2022. I also taught programming and database systems at **Hewad Institute of Higher Education** for three years, mentoring students on their first real software projects.
 
-In 2022, I relocated to Malaysia and began my Master's in Artificial Intelligence at APU — where I'm now combining my years of engineering experience with modern AI and cloud-native development.
+In 2025, I relocated to Malaysia and began my Master's in Artificial Intelligence at APU — where I'm now combining my years of engineering experience with modern AI and cloud-native development.
 
 I am actively seeking **Full-Stack Developer** and **Software Engineer** opportunities in Australia through the Skilled Refugee Labour Agreement Pilot.
 
