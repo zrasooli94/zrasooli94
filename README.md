@@ -10,12 +10,12 @@
 
 ---
 
-### 🚀 What I'm working on
+### 🚀 Featured Projects
 
-- 🛒 **Rebuilding Tajer.af v2** — a modern e-commerce platform using Laravel 11 + Vue 3
-- 🎓 **EduFlow** — a university & course management system in ASP.NET Core
-- 💰 **FinanceTrack** — a multi-currency budget tracker (PHP + Chart.js)
-- 🤖 **AI Resume Matcher** — a capstone project combining Python, FastAPI, and LLMs
+- 🛒 **[Tajer.af v2](https://github.com/zrasooli94/tajer-af-v2)** — Full-stack e-commerce platform built with Laravel 11, MySQL, and Tailwind CSS. Modern rebuild of my original Afghan e-commerce business. *Features: product catalog, cart, checkout, user auth, admin panel.*
+- 🎓 **EduFlow** *(coming soon)* — University & course management system in ASP.NET Core
+- 💰 **FinanceTrack** *(coming soon)* — Multi-currency budget tracker (PHP + Chart.js)
+- 🤖 **AI Resume Matcher** *(coming soon)* — Capstone project combining Python, FastAPI, and LLMs
 
 ---
 
